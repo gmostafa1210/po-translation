@@ -11,5 +11,5 @@ Need to change line number **151** in that method as following:
  
 **response = (decoded_line + ']')**  
 to
-**response = decoded_line**
 
+**response = decoded_line**
