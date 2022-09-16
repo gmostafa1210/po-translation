@@ -1,6 +1,6 @@
 # po_translator
 
-**Demendencies**
+## Dependencies
 ```
 pip3 install polib google_trans_new googletrans requests
 ```
