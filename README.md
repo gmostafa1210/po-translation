@@ -10,6 +10,7 @@ inside **google_trans_new.py** file in **translate** method.
 Need to change line number **151** in that method as following:
  
 **response = (decoded_line + ']')**  
+
 to
 
 **response = decoded_line**
